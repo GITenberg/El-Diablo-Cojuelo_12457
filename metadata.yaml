@@ -1,0 +1,28 @@
+_repo: El-Diablo-Cojuelo_12457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vélez de Guevara, Luis
+    aliases:
+    - Guevara, Luis Vélez de
+    - Velez de Guevara, Luis
+    birthdate: 1579
+    deathdate: 1644
+    gutenberg_agent_id: '4381'
+    url: http://www.gutenberg.org/2009/agents/4381
+    wikipedia: http://en.wikipedia.org/wiki/Lu%C3%ADs_V%C3%A9lez_de_Guevara
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12457'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Devil -- Fiction'
+- GITenberg
+title: El Diablo Cojuelo
+url: http://www.gutenberg.org/ebooks/12457
