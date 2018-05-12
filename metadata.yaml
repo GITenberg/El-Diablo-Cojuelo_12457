@@ -1,5 +1,8 @@
 _repo: El-Diablo-Cojuelo_12457
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vélez de Guevara, Luis
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4381
     wikipedia: http://en.wikipedia.org/wiki/Lu%C3%ADs_V%C3%A9lez_de_Guevara
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12457#El-Diablo-Cojuelo
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
